@@ -1,14 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5461599737:AAHlsXTuj588BNEhI0B0FFwMZ9s0rvB0mrI"
+    APP_ID = "10297545"
+    API_HASH = "9cbf97211ec3efef7ca465ff1060c50a"
+    DATABASE_URL = "https://github.com/donui-bit/IDN-GDrive-Bot/compare/main...chundaran:IDN-GDrive-Bot:patch-1"
+    SUDO_USERS = "5116267482" # Separated by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-
+    G_DRIVE_CLIENT_ID = "846667681367-nqkjhdm7s2264jaleq5n021fr9s2r4hj.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 class BotCommands:
   Download = ['download', 'dl']
